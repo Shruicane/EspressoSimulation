@@ -1,0 +1,3 @@
+# ignore all directories for IDE enviorment /debug
+obj/
+bin/

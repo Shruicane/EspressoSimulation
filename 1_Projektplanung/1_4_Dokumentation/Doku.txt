@@ -1,0 +1,23 @@
+22.11 Zusammenfassung Besprechung
+
+Ordnerstruktur:
+-Materials und Meshes getrennt speichern
+	-Materials umbennen
+-Scripts in den Scripts Ordner mit Unterordnern (z.B. Utils, Resources, etc.)
+-merge im auge behalten
+
+In Zukunft aufpassen beim importieren neuer/überarbeiteter Models: Nichts überschreiben, Namensgebung sollte beibehalten werden. 
+
+Visualisierung Temperatur und Druck:
+-Temperatur: Farbe des Brühkopfes
+-Druck: Außenhülle der Maschine auf einer Seite transparent
+	-"Innenleben": Wassertank, Rohre, Kessel
+	-Kessel außen transparent, innen solid & eingefärbt: Innenteil des Kessels ändert seine Größe abhängig vom Druck
+		-alternativ: gleiches Prinzip aber mit Rohren
+	-Orientierungshilfe: https://www.mondodelcaffe.de/news/kaffee-aus-dem-siebtraeger-espressomaschine/
+
+Aufgaben die bis Freitag fertig sein sollten: 
+-Daniel & Merten finalisieren ihre vorhandenen Aufgaben
+Aufgaben die bis Freitag einen Zwischenstand erreicht haben sollten: 
+-Rayk erstellt 3D Modelle für die Visualisierung des Drucks
+-Luca überlegt wie man ein "ManagerObject" designen könnte
